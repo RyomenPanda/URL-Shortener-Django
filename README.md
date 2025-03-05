@@ -39,7 +39,7 @@ $  source venv/bin/activate
 **3. Clone this project**
 
 ```
-$  git clone https://github.com/saminmahmud/URL-Shortener.git
+$  git clone https://github.com/saminmahmud/URL-Shortener.git](https://github.com/RyomenPanda/URL-Shortener-Django.git
 ```
 
 Then, Enter the project
