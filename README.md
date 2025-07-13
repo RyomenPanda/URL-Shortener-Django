@@ -2,6 +2,8 @@
 
 A simple and fast URL shortener web application built with Django that converts long URLs into shorter, more manageable links using the TinyURL service.
 
+**Example Deployment**: https://ryomenpanda.duckdns.org/
+
 ## Features
 
 - **URL Shortening**: Convert long URLs to short links using TinyURL service
